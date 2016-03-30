@@ -1,0 +1,25 @@
+{
+  "name": "plugnative-nodejs-jwtauthserver",
+  "version": "1.0.0",
+  "description": "nodejs server for real time availiablty.",
+  "main": "index.js",
+  "scripts": {
+    "test": "plugnative"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PlugNative-NodeJS/plugnative-nodejs-jwtauthserver.git"
+  },
+  "keywords": [
+    "plugnative",
+    "dileepyadav",
+    "nodejs",
+    "server"
+  ],
+  "author": "DILEEP YADAV",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/PlugNative-NodeJS/plugnative-nodejs-jwtauthserver/issues"
+  },
+  "homepage": "https://github.com/PlugNative-NodeJS/plugnative-nodejs-jwtauthserver#readme"
+}
